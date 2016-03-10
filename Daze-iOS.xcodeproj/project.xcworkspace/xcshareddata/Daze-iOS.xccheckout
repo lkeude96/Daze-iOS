@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B6EA5BF0-0B70-4105-855B-5446E73E9219</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CADCEA5723B0BEF117712A913AED12B00D8FB1B1</key>
+		<string>https://github.com/lkeude96/Daze-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Daze-iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CADCEA5723B0BEF117712A913AED12B00D8FB1B1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lkeude96/Daze-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CADCEA5723B0BEF117712A913AED12B00D8FB1B1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CADCEA5723B0BEF117712A913AED12B00D8FB1B1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Daze-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
